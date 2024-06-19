@@ -1,0 +1,9 @@
+algoritmo "semnome"
+var
+      nome: caracter
+inicio
+
+      Escreva("Qual é o seu nome? ")
+      Leia(nome)
+      Escreva("Olá ",nome,", é um prazer te conhecer!")
+fimalgoritmo
