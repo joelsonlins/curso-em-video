@@ -2,9 +2,9 @@ algoritmo "semnome"
 var
    jogador1, jogador2:inteiro
 inicio
-   Escreval("Jogador 1, escolha sua mão: [1]Pedra [2]Papel [3]Tesoura")
+   Escreval("Jogador 1, escolha sua mï¿½o: [1]Pedra [2]Papel [3]Tesoura")
    Leia(jogador1)
-   Escreval("Jogador 2, escolha sua mão: [1]Pedra [2]Papel [3]Tesoura")
+   Escreval("Jogador 2, escolha sua mï¿½o: [1]Pedra [2]Papel [3]Tesoura")
    Leia(jogador2)
 
    se ((jogador1=1) e (jogador2=2)) entao
