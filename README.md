@@ -14,7 +14,7 @@
     <td align="center">
        <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2019/08/algoritmos-300x300.jpg' alt="Curso de Algoritimo" width="150"></a>
       <p>Algoritmo</p>
-      <p>Status:⌛Aguardando...</p>      
+      <p>Status:✅Concluído</p>      
     </td>
     <td align="center">
       <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2019/08/html5-300x300.jpg' alt="Curso de HTML 5" width="150"></a>
@@ -22,12 +22,12 @@
       <p>Status:⌛Aguardando...</p>  
     </td>
     <td align="center">
-      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2020/11/htmlcss-vip-mod1-300x300.jpg' alt="Curso de Banco de Dados MySQL" width="150"></a>
+      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2020/11/htmlcss-vip-mod1-300x300.jpg' alt="Curso de HTML5 e CSS" width="150"></a>
       <p>HTML5 e CSS3: Módulo 1 de 5</p>
       <p>Status:⌛Aguardando...</p>  
     </td>
     <td align="center">
-      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2020/11/htmlcss-vip-mod2-300x300.jpg' alt="Curso de Banco de Dados MySQL" width="150"></a>
+      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2020/11/htmlcss-vip-mod2-300x300.jpg' alt="Curso de HTML5 e CSS" width="150"></a>
       <p>HTML5 e CSS3: Módulo 2 de 5</p>
       <p>Status:⌛Aguardando...</p>  
     </td>
@@ -35,22 +35,22 @@
   </tr>
     <tr>
     <td align="center">
-       <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2020/11/htmlcss-vip-mod3-300x300.jpg' alt="Curso de Banco de Dados MySQL" width="150"></a>
+       <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2020/11/htmlcss-vip-mod3-300x300.jpg' alt="Curso de HTML5 e CSS" width="150"></a>
       <p>HTML5 e CSS3: Módulo 3 de 5</p>
       <p>Status:⌛Aguardando...</p>      
     </td>
     <td align="center">
-      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2022/05/htmlcss-mod4-300x300.jpg' alt="Curso de Banco de Dados MySQL" width="150"></a>
+      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2022/05/htmlcss-mod4-300x300.jpg' alt="Curso de HTML e CSS" width="150"></a>
       <p>HTML5 e CSS3: Módulo 4 de 5</p>
       <p>Status:⌛Aguardando...</p>  
     </td>
     <td align="center">
-      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2024/06/htmlcss-mod5-300x300.jpg' alt="Curso de Banco de Dados MySQL" width="150"></a>
+      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2024/06/htmlcss-mod5-300x300.jpg' alt="Curso de HTML e CSS" width="150"></a>
       <p>HTML5 e CSS3: Módulo 5 de 5</p>
       <p>Status:⌛Aguardando...</p>  
     </td>
     <td align="center">
-      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2020/04/git-1-300x300.png' alt="Curso de Banco de Dados MySQL" width="150"></a>
+      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2020/04/git-1-300x300.png' alt="Curso de Banco de Git e Github" width="150"></a>
       <p>Git e Github</p>
       <p>Status:⌛Aguardando...</p>  
     </td>
@@ -58,7 +58,7 @@
   </tr>
      <tr>
     <td align="center">
-       <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2019/08/javascript-300x300.jpg' alt="Curso de Banco de Dados MySQL" width="150"></a>
+       <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2019/08/javascript-300x300.jpg' alt="Curso de JavaScript" width="150"></a>
       <p>JavaScript</p>
       <p>Status:⌛Aguardando...</p>      
     </td>
@@ -68,12 +68,12 @@
       <p>Status:⌛Aguardando...</p>  
     </td>
     <td align="center">
-      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2019/08/java-300x300.jpg' alt="Curso de Banco de Dados MySQL" width="150"></a>
+      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2019/08/java-300x300.jpg' alt="Curso de Banco de Java Básico" width="150"></a>
       <p>Java Básico</p>
       <p>Status:⌛Aguardando...</p>  
     </td>
     <td align="center">
-      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2019/08/poo-java-300x300.jpg' alt="Curso de Banco de Dados MySQL" width="150"></a>
+      <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2019/08/poo-java-300x300.jpg' alt="Curso de Java POO" width="150"></a>
       <p>Java POO</p>
       <p>Status:⌛Aguardando...</p>  
     </td>
