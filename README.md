@@ -60,7 +60,7 @@
     <td align="center">
        <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2019/08/javascript-300x300.jpg' alt="Curso de JavaScript" width="150"></a>
       <p>JavaScript</p>
-      <p>Status:⌛Aguardando...</p>      
+      <p>Status:✅Concluído</p>      
     </td>
     <td align="center">
       <a href='https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLpwygc0AuGOXJ18fPwPNIeXvzKid_AUkm'><img src='https://www.cursoemvideo.com/wp-content/uploads/2019/08/bancodedados-sql-300x300.jpg' alt="Curso de Banco de Dados MySQL" width="150"></a>
